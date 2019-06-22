@@ -69,3 +69,7 @@ main {
   outline-color: black;
   font-size: 1.3em;
 }
+
+.btn {
+  text-transform: capitalize;
+}
