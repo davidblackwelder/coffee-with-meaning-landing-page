@@ -73,10 +73,3 @@ main {
 .btn {
   text-transform: capitalize;
 }
-
-#mc_embed_signup input {
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  border-color: #28a745;
-  font-weight: 700;
-}
